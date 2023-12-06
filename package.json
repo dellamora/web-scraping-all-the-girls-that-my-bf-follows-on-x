@@ -1,0 +1,12 @@
+{
+  "name": "web-scraping-all-the-girls-that-my-bf-follows-on-x",
+  "version": "1.0.0",
+  "description": "an awesome X web scraper that will change the world",
+  "main": "index.js",
+  "author": "Francielle Dellamora",
+  "license": "yes",
+  "private": false,
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
+}
